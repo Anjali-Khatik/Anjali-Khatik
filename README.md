@@ -6,10 +6,10 @@ Here are some ideas to get you started:
 - 🔭 &nbsp; I’m currently working on something cool: FinManager :wink:
 - 🌱 &nbsp; I’m currently learning **Django, Cloud Computing, AWS**
 - ✍️ Writing tech blog posts over at [dev.to](https://dev.to/mrkaushal).
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mrkaushal?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Anjali-Khatik?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mrkaushalp/)
-- 📝 &nbsp; Checkout my [resume](https://mrkaushal.com/wp-content/uploads/2022/05/Resume.pdf)
+- 📝 &nbsp; Checkout my [resume](https://google.com)
 - 💬 &nbsp; Ask me about anything related to Django/Python
 - 😄 &nbsp; Pronouns: He/Him/His
 - ⚡ &nbsp; Fun fact: I :heart: :man_technologist:
