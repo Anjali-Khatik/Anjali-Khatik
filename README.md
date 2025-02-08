@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **khatikanjali@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1I_LtvfXbg4soD3OgmIV5skMpeWp6jTiJ/view?usp=sharing](https://drive.google.com/file/d/1I_LtvfXbg4soD3OgmIV5skMpeWp6jTiJ/view?usp=sharing)
-
 - ⚡ Fun fact **I am cheerful and enthusiastic**
 
 <h3 align="left">Connect with me:</h3>
